@@ -1,0 +1,234 @@
+cv:
+  name: Dominik Bittner
+  label: PhD Researcher, Environmental Sustainability
+  email: dominikbittner2023@gmail.com
+  summary: >
+    My bond with nature began at an early age, growing up on a farm with its woodlands. I have witnessed firsthand the
+    challenges faced by farmers due to deteriorating soil health, leading to a strong motivation to advance sustainable
+    agricultural practices. Fully in line with UN Sustainable Development Goals, I am particularly invested in helping
+    regions where support is urgently needed, such as in sub-Saharan Africa, where farmers heavily depend on the
+    health of their soils.
+
+  address:
+    city: Aberdeen
+    region: UK
+
+  sections:
+    Education:
+      - institution: University of Aberdeen
+        location: Aberdeen, UK
+        studyType: PhD
+        area: Environmental Sustainability
+        start_date: 2024-09
+        highlights:
+          - "Thesis: Supporting Ethiopian farmers to assess soil and use nature-based solutions with hybrid AI"
+          - "Coursework: Soil science, sustainability, computer vision, interdisciplinary research."
+
+      - institution: Regensburg University of Applied Sciences
+        location: Regensburg, GER
+        studyType: M.Sc.
+        area: Applied Research in Engineering Sciences
+        start_date: 2022-04
+        end_date: 2024-02
+        highlights:
+          - "Thesis: Investigation into supporting students in learning through eye tracking and deep learning"
+          - "Coursework: Machine learning, deep learning."
+          - "Grade: 1.2 (with distinction)"
+
+      - institution: Regensburg University of Applied Sciences
+        location: Regensburg, GER
+        studyType: B.Eng.
+        area: Mechatronics
+        start_date: 2018-10
+        end_date: 2022-07
+        highlights:
+          - "Thesis: Data augmentation to improve CNN-based semantic segmentation to prevent forest fires"
+          - "Coursework: Software engineering, statistics & optimization."
+          - "Grade: 2.0 (upper second-class)"
+
+    Experience:
+      - company: University of Aberdeen
+        position: Research Assistant
+        location: Aberdeen, UK
+        start_date: 2026-01
+        highlights:
+          - Leading the deployment of an agricultural advisory software for African farmers.
+
+      - company: Independent Computational Consultant
+        position: Freelance Consultant
+        location: Remote
+        start_date: 2025-11
+        highlights:
+          - Provision of AI expertise for one startup in the agricultural sector.
+
+      - company: University of Aberdeen
+        position: Demonstrator & Project Supervisor
+        location: Aberdeen, UK
+        start_date: 2024-09
+        highlights:
+          - "Courses: Artificial Intelligence, Evaluation of AI Systems, Statistical Analysis of Biological Data."
+          - "Supervisees: Jeanne Biegel, Adam Ponting, Daniel Eze, Olubusuyi Omowaye."
+
+      - company: Regensburg University of Applied Sciences
+        position: Research Associate
+        location: Regensburg, GER
+        start_date: 2022-04
+        end_date: 2024-08
+
+      - company: Fraunhofer Institute for Integrated Circuits IIS
+        position: Research Intern
+        location: Erlangen, GER
+        start_date: 2022-04
+        end_date: 2022-12
+        highlights:
+          - Analysis of subjects' physiological data to draw conclusions about their affective states.
+
+      - company: University of Coimbra
+        position: Research Intern
+        location: Coimbra, POR
+        start_date: 2021-12
+        end_date: 2022-03
+
+      - company: Nottingham Trent University
+        position: Research Intern
+        location: Nottingham, UK
+        start_date: 2021-08
+        end_date: 2022-11
+
+      - company: Maschinenfabrik Reinhausen
+        position: Engineering Intern
+        location: Regensburg, GER
+        start_date: 2020-09
+        end_date: 2021-02
+        highlights:
+          - Exploration of fibre-optic sensor technology for position detection of vacuum tap-changers.
+
+      - company: Siemens AG
+        position: Mechatronics Technician
+        location: Nuremberg, GER
+        start_date: 2013-09
+        end_date: 2017-09
+        highlights:
+          - Apprenticeship and full-time employment in the production of high voltage converters.
+
+    Publications:
+      - title: Assessing the impact of nature-based solutions on soil health in sub-Saharan Africa through farmer-centred methods
+        releaseDate: 2026
+        publisher: Environmental Research Letters, 21(4), 043004
+
+      - title: Towards use of AI-Powered Hybrid Soil Health Assessment to Design Nature-Based Solutions for Restoration of Degraded Soils in Sub-Saharan Africa
+        releaseDate: 2024
+        publisher: AI4SoilHealth Conference Proceedings
+
+      - title: Uncovering Learning Styles through Eye Tracking and Artificial Intelligence
+        releaseDate: 2024
+        publisher: ETRA 2024 Proceedings
+
+      - title: "Unveiling the Secrets of Learning Styles: Decoding Eye Movements via Machine Learning"
+        releaseDate: 2023
+        publisher: ICERI 2023 Proceedings
+
+      - title: In-depth Benchmarking of Transfer Learning Techniques for Improved Bottle Recognition
+        releaseDate: 2023
+        publisher: ICPRS 2023 Proceedings
+
+      - title: Towards Eye Tracking based Learning Style Identification
+        releaseDate: 2023
+        publisher: ECSEE 2023 Proceedings
+
+      - title: Generating synthetic multispectral images for semantic segmentation in forestry applications
+        releaseDate: 2022
+        publisher: ICRA 2022 Workshop Proceedings
+
+    Awards:
+      - title: ISMC Travel Award
+        date: 2026-09
+        awarder: International Soil Modeling Consortium
+        summary: Travel grant to attend the International Soil Modeling Consortium conference (520 GBP).
+
+      - title: SUSTAIN CDT Doctoral Stipend
+        date: 2024-09
+        awarder: SUSTAIN Centre for Doctoral Training
+        summary: Full research funding and maintenance, Sep 2024 - Aug 2028 (94,000 GBP).
+
+      - title: Bavarian State Ministry Grant
+        date: 2024-04
+        awarder: Bavarian State Ministry for Science and Art
+        summary: "PI of the Eye Movement Modelling Examples project, No. L.1-H2493.0/15, Apr 2024 - Apr 2025 (52,000 GBP)."
+
+      - title: DAAD HAW.International Stipend
+        date: 2021-12
+        awarder: DAAD
+        summary: International scholarship for thesis completion abroad, Dec 2021 - Mar 2022 (4,300 GBP).
+
+      - title: DAAD RISE Programme Stipend
+        date: 2021-08
+        awarder: DAAD
+        summary: International research scholarship for a science internship, Aug 2021 - Nov 2021 (3,500 GBP).
+
+    Skills:
+      - name: Research
+        keywords:
+          - Experimental design
+          - Qualitative & quantitative research
+
+      - name: Computer Science
+        keywords:
+          - Scientific ML & DL
+          - Computer vision
+          - Python
+          - R
+          - Julia
+
+      - name: Soil Science
+        keywords:
+          - Soil classification
+          - Soil analysis
+          - Sustainability
+
+      - name: Transferable
+        keywords:
+          - Academic writing
+          - Public speaking
+          - Teamwork
+          - Leadership
+
+    Languages:
+      - name: German
+        summary: Native speaker
+      - name: English
+        summary: Professional working proficiency
+      - name: Spanish
+        summary: Basic communication skills
+
+    Conferences & Invited Talks:
+      - bullet: "**Dec 2025** — Poster, “Hybrid Soil Engine”, BSSS Annual Conference, Manchester, UK"
+      - bullet: "**Dec 2025** — Oral, “Hybrid Soil Engine”, BSSS Early Career Conference, Manchester, UK"
+      - bullet: "**Oct 2025** — Oral, “Hybrid Soil Engine”, NESEN Conference, Aberdeen, UK"
+      - bullet: "**Oct 2025** — Poster, “Hybrid Soil Engine”, Interdisciplinary Symposium, Aberdeen, UK"
+      - bullet: "**Dec 2024** — Poster, “Hybrid Soil Engine”, AI4SoilHealth Conference, Budapest, Hungary"
+      - bullet: "**Jun 2024** — Oral, “Deep Learning in Eye Tracking”, ETRA Conference, Glasgow, UK"
+      - bullet: "**Dec 2023** — Invited lecture, “Deep Learning in Education”, University of Vienna, Austria"
+      - bullet: "**Nov 2023** — Oral, “Deep Learning in Eye Tracking”, ICERI Conference, Seville, Spain"
+      - bullet: "**Jul 2023** — Oral, “Deep Learning Benchmarking”, ICPRS Conference, Guayaquil, Ecuador"
+      - bullet: "**Jun 2023** — Oral, “Deep Learning in Education”, ECSEE Conference, Seeon, Germany"
+      - bullet: "**May 2022** — Oral, “Deep Learning in Forestry”, ICRA Conference, Philadelphia, USA"
+
+    Extracurricular, Service & Memberships:
+      - bullet: "**Board member:** Network coordinator at the Aberdeen-Africa Research Network."
+      - bullet: "**Student representative:** The students' voice in the SUSTAIN-CDT programme."
+      - bullet: "**Smoke diver:** Trained in high-stress rescue operations at the local voluntary fire brigade."
+      - bullet: "**Coach and board member:** Support and guidance for the local youth football club."
+      - bullet: "**Memberships:** British Society of Soil Science, International Soil Modeling Consortium."
+
+    Personal Interests:
+      - bullet: "**Run the farm:** The family farm is a lifelong, shared commitment and a round-the-clock passion."
+      - bullet: "**In the orchestra:** Playing solo is great; in a band, it's all about listening and connecting."
+
+    References:
+      - name: Professor Jo Smith
+        reference: "University of Aberdeen — jo.smith@abdn.ac.uk"
+      - name: Professor Jürgen Mottok
+        reference: "Regensburg University of Applied Sciences — juergen.mottok@oth-regensburg.de"
+      - name: Dr. David Portugal
+        reference: "University of Coimbra — davidbsp@isr.uc.pt"
