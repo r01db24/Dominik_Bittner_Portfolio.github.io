@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://r01db24.github.io/Dominik_Bittner_Portfolio.github.io/sitemap.xml
