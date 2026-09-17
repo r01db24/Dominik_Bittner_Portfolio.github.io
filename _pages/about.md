@@ -7,7 +7,7 @@ subtitle: PhD Researcher in Environmental Sustainability, University of Aberdeen
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true
+  image_circular: false
 
 selected_papers: true
 social: true
@@ -18,10 +18,6 @@ announcements:
 latest_posts:
   enabled: false
 ---
-
-<style>
-.profile img { max-width: 130px; aspect-ratio: 1 / 1; object-fit: cover; }
-</style>
 
 My bond with nature began at an early age, growing up on a farm with its woodlands. I have witnessed firsthand the challenges faced by farmers due to deteriorating soil health, leading to a strong motivation to advance sustainable agricultural practices. Fully in line with UN Sustainable Development Goals, I am particularly invested in helping regions where support is urgently needed, such as in sub-Saharan Africa, where farmers heavily depend on the health of their soils.
 
