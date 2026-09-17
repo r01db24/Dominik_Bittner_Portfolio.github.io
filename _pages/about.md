@@ -2,12 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Researcher in Environmental Sustainability, University of Aberdeen
-
-profile:
-  align: right
-  more_info: >
-    <p>Aberdeen, UK</p>
+subtitle: PhD Researcher in Environmental Sustainability, University of Aberdeen &middot; Aberdeen, UK
 
 selected_papers: true
 social: true
