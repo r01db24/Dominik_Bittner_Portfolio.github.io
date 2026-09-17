@@ -7,7 +7,7 @@ subtitle: PhD Researcher in Environmental Sustainability, University of Aberdeen
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
 
 selected_papers: true
 social: true
@@ -18,6 +18,10 @@ announcements:
 latest_posts:
   enabled: false
 ---
+
+<style>
+.profile img { max-width: 130px; }
+</style>
 
 <img src="{{ '/assets/img/farmer-engagement-ethiopia.jpg' | relative_url }}" alt="Farmer engagement session for the hybrid soil health project in Ethiopia" class="img-fluid rounded z-depth-1 mb-3">
 
