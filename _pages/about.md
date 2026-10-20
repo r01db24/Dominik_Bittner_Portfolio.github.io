@@ -37,7 +37,7 @@ My PhD combines biophysical process models, machine learning and expert knowledg
 <br>
 
 **August 2026** – Following the fieldwork, I attended a summer school on **Earth Observation Summer School Istanbul, Türkiye**. The programme provided valuable insights into how satellite data can be used to predict soil properties across large areas while also highlighting the limitations and uncertainties associated with these approaches. The experience reinforced the importance of combining remote sensing technologies with field observations to generate reliable information for soil management.
-<img src="{{ '/assets/img/farmer-engagement-ethiopia.jpg' | relative_url }}" alt="Farmer engagement session for the hybrid soil health project in Ethiopia" class="img-fluid rounded z-depth-1 mt-3" style="clear: both; display: block;">
+<img src="{{ '/assets/img/istanbul.jpg' | relative_url }}" alt="Farmer engagement session for the hybrid soil health project in Ethiopia" class="img-fluid rounded z-depth-1 mt-3" style="clear: both; display: block;">
 
 ---
 
