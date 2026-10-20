@@ -34,10 +34,7 @@ My PhD combines biophysical process models, machine learning and expert knowledg
 in Rio de Janeiro, Brazil, for presenting my work on **hybrid modelling of soil
 organic carbon dynamics**.
 
-<img src="{{ '/assets/img/ismc-presentation.jpg' | relative_url }}"
-     alt="Best oral presentation award at ISMC conference"
-     class="img-fluid rounded z-depth-1 mt-3"
-     style="clear: both; display: block;">
+<img src="{{ '/assets/img/ismc-presentation.jpg' | relative_url }}" alt="Best oral presentation award at ISMC conference" class="img-fluid rounded z-depth-1 mt-3" style="clear: both; display: block;">
 
 <img src="{{ '/assets/img/farmer-engagement-ethiopia.jpg' | relative_url }}" alt="Farmer engagement session for the hybrid soil health project in Ethiopia" class="img-fluid rounded z-depth-1 mt-3" style="clear: both; display: block;">
 
